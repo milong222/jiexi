@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: org.h2.Driver
-    url: jdbc:h2:file:/Users/smile/Desktop/ToolApi/db/tool_api_test
+    url: jdbc:h2:~/test
     username: root
-    password: 123456
+    password: 
   h2:
     console:
       path: /h2-console
